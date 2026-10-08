@@ -1,2 +1,2 @@
 # ComMag-1
-ComMag-1
+ComMag材料
